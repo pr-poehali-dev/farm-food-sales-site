@@ -110,7 +110,7 @@ const Index = () => {
         <nav className="container mx-auto px-4 py-4 flex items-center justify-between">
           <div className="flex items-center gap-2">
             <Icon name="Sprout" size={32} />
-            <h1 className="text-2xl font-bold">Ферма «Родные просторы»</h1>
+            <h1 className="text-2xl font-bold">Из Дивных снов</h1>
           </div>
           <div className="hidden md:flex gap-6">
             <a href="#catalog" className="hover:text-accent transition-colors">Каталог</a>
@@ -136,7 +136,7 @@ const Index = () => {
           <div className="absolute inset-0 bg-black/40" />
         </div>
         <div className="relative z-10 text-center text-white px-4 animate-fade-in">
-          <h2 className="text-5xl md:text-6xl font-bold mb-4">Натуральные продукты с нашей фермы</h2>
+          <h2 className="text-5xl md:text-6xl font-bold mb-4">Натуральные продукты из Дивных снов</h2>
           <p className="text-xl md:text-2xl mb-8 max-w-2xl mx-auto">
             Выращиваем с любовью, доставляем с заботой
           </p>
@@ -220,7 +220,7 @@ const Index = () => {
             <div className="animate-fade-in" style={{ animationDelay: '0.2s' }}>
               <h2 className="text-4xl font-bold mb-6">О нашей ферме</h2>
               <p className="text-lg mb-4 text-muted-foreground">
-                Ферма «Родные просторы» работает уже более 15 лет. Мы начинали с небольшого семейного хозяйства
+                Ферма «Из Дивных снов» работает уже более 15 лет. Мы начинали с небольшого семейного хозяйства
                 и выросли в крупное фермерское предприятие, сохранив традиции качества и заботы о природе.
               </p>
               <p className="text-lg mb-4 text-muted-foreground">
@@ -511,7 +511,7 @@ const Index = () => {
             <div>
               <div className="flex items-center gap-2 mb-4">
                 <Icon name="Sprout" size={28} />
-                <h3 className="text-xl font-bold">Ферма «Родные просторы»</h3>
+                <h3 className="text-xl font-bold">Из Дивных снов</h3>
               </div>
               <p className="text-primary-foreground/80">
                 Натуральные продукты с любовью к природе и заботой о вашем здоровье
@@ -543,7 +543,7 @@ const Index = () => {
             </div>
           </div>
           <div className="border-t border-primary-foreground/20 pt-6 text-center text-primary-foreground/80">
-            <p>© 2026 Ферма «Родные просторы». Все права защищены.</p>
+            <p>© 2026 Ферма «Из Дивных снов». Все права защищены.</p>
           </div>
         </div>
       </footer>
